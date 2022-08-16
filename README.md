@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hunnyabbs
-- 👀 I’m interested in biostatistics, healthcare
+- 👀 I’m interested in biostatistics, healthcare, data science
 - 🌱 I’m currently learning HTML/CSS/JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
